@@ -1,0 +1,15 @@
+model\OutputMessage.class
+DAO\ForumDaoImpl.class
+DAO\RegisterDAOImpl.class
+DAO\RegisterDAO.class
+model\Message.class
+model\Forum.class
+model\Register.class
+model\Blog.class
+model\Users.class
+DAO\BlogDAOImpl.class
+DAO\ForumDaoInterface.class
+model\UserRole.class
+com\niit\controller\ChatController.class
+DAO\BlogDAO.class
+model\Comment.class
